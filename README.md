@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *IoT*
 
-- 👨‍💻 All of my projects are available at [shaswatika70/portfolio](https://github.com/shaswatika70/My-Portfolio.git/)
+- 👨‍💻 All of my projects are available at [shaswatika70/portfolio](https://shaswatika70.github.io/My-Portfolio/)
 
 - 📫 How to reach me *shaswatikamuduli77@gmail.com*
 
