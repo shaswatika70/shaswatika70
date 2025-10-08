@@ -6,20 +6,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatika70&label=Profile%20views&color=0e75b6&style=flat" alt="shaswatika70" /> </p>
 
-- 🔭 I’m currently working on *Developing My Skills*
-
-- 🌱 I’m currently learning *IoT*
-
-- 👨‍💻 All of my projects are available at [shaswatika70/portfolio](https://shaswatika70.github.io/My-Portfolio/)
-
-- 📫 How to reach me *shaswatikamuduli77@gmail.com*
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaswatika70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
-
-
-
 
