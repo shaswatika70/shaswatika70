@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [shaswatika70/portfolio](https://shaswatika70.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [shaswatika70/portfolio](https://shaswatika-portfolio.vercel.app/)
 
 - 📫 How to reach me **shaswatikamuduli77@gmail.com**
 
